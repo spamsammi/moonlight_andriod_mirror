@@ -1,0 +1,5 @@
+#https://github.com/google/python-adb
+adb
+
+#https://github.com/leng-yue/py-scrcpy-client
+scrcpy-client 
