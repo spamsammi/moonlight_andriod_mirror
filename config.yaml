@@ -1,4 +1,3 @@
 audio_codec: opus # (opus, aac, flac or raw)
 bit_rate: 8M # max is 2.147 Gbps (2147M);
-phone_pointer_speed: 4
 video_codec: h264 # (h264, h265 or av1)
